@@ -1,0 +1,10 @@
+*.config
+bin/
+obj/
+*.csproj
+*.sln
+*.resx
+Form1.Designer.cs
+.vs/
+Properties/
+
